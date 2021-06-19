@@ -2,7 +2,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-ERICK%20MARQUES-3552c8?style=flat-square">
-  <img alt="GitHub language count" "2"
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-3552c8?style=flat-square">
   </a>
