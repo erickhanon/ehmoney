@@ -3,7 +3,6 @@
 <p>
   <img src="https://img.shields.io/badge/made%20by-ERICK%20MARQUES-3552c8?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/erkanon/ehmoney?color=3552c8&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/dtmoney?color=ff512f&style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-3552c8?style=flat-square">
   </a>
@@ -29,10 +28,6 @@
 O eh money é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e com uma organização em categorias
 
 <br>
-
-<p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
-</p>
 
 ## Tecnologias
 
