@@ -15,7 +15,7 @@ createServer({
         title: 'Salário',
         type: 'deposit',
         category: 'WS',
-        amount: 1800,
+        amount: 2800,
         createdAt: new Date('2021-05-06 19:19:19'),
       },
       {
